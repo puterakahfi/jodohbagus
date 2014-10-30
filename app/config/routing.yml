@@ -1,0 +1,5 @@
+app_bundle_dashboard:
+    resource: "@AppBundleDashboardBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
